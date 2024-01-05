@@ -2,4 +2,4 @@
 
 <p>⌚Welcome in my first Python Console Application⌚</p>
 <p>✅This is Simple Country Wordle✅</p>
-<img src="national_wordle.png">
+<img src="country_wordle.png">
