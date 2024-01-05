@@ -1,4 +1,5 @@
-<h1>First version of my Console Python Game Wordle</h1>
+<h1>😍First version of my Console Python Game Wordle😍</h1>
 
-<p>This is my simple game</p>
+<p>⌚Welcome in my first Python Console Application⌚</p>
+<p>✅This is Simple National Wordle✅</p>
 <img src="national_wordle.png">
