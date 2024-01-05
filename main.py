@@ -7,7 +7,7 @@ for line in file:
 choseen_word = random.choice(data)
 i = 1
 chars = []
-print("/////WELCOME IN SIMPLE NATIONAL WORDLE/////")
+print("/////WELCOME IN SIMPLE COUNTRY WORDLE/////")
 print("Guess the word with", len(choseen_word), "letters")
 print("You have 6 tries")
 bad_chars = []
