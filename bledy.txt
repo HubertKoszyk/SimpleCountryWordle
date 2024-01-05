@@ -1,0 +1,7 @@
+///duże małe litery zalicza jako osobne znaki (naprawione .capitalize)//
+spacja rozdziela słowa czyli nie państwa co mają spacje nie moga być (nie naprawione)
+///błąd długie krótkie wyrazy (naprawione w ifie dałem or)///
+gdy jest nie zgadnie żadnej litery pokazuje set() (nie naprawione)
+///Za krótkie wyrazy albo za długie zatrzymywały program (continue)///
+///dodać coś żeby do jednej tablicy wrzucało wszystkie dobre litery (konwersja 
+struktur danych z zbioru na liste i extend)///
